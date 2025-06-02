@@ -16,7 +16,7 @@ Este projeto utiliza a webcam para detectar e contar flexões de braço em tempo
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone <https://github.com/lucbeltrao/projetoGiro.git>
     cd projetoFeira
     ```
 
